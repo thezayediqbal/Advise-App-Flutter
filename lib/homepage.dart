@@ -28,7 +28,6 @@ class _HomePageState extends State<HomePage> {
       setState(() {
         adviseText = resultData["slip"]["advice"];
       });
-      //adviseText = resultData;
     } catch (e) {
       throw e.toString();
     }
