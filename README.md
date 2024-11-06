@@ -1,6 +1,6 @@
 # Flutter Based Advise App
 
-A new Flutter project.
+![Screenshot_1730916513](https://github.com/user-attachments/assets/c14b24e8-a3f3-4dbc-8536-542a8634c48e)
 
 ## Getting Started
 
