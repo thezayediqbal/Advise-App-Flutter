@@ -1,6 +1,8 @@
 # Flutter Based Advise App
 
-![Screenshot_1730916513](https://github.com/user-attachments/assets/c14b24e8-a3f3-4dbc-8536-542a8634c48e)
+* Application Preview *
+
+<img src="https://github.com/user-attachments/assets/c14b24e8-a3f3-4dbc-8536-542a8634c48e" width="250">
 
 ## Getting Started
 
